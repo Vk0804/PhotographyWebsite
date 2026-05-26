@@ -6,4 +6,6 @@ Base of the website
 - Tabs for each album
 - A slideshow for each album
 
+
+Varshitha Notes
   
